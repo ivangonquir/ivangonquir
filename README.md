@@ -6,6 +6,8 @@ I'm a **Data Science Student** with a passion for building and a curiosity that 
 I am currently researching **Variational Manifold Learning**, specifically looking at how we can use Variational Autoencoders (VAEs) to learn and smooth the probability distribution of Transformer embeddings.
 
 
+
+
  **🛠️ My Toolbox:**
 
 Languages: 
