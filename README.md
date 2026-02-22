@@ -1,16 +1,16 @@
-# Hi there, I'm Ivan! 👋
+# Hi there, I'm Ivan! 
 
 I'm a Data Science Student interested in a wide variety of topics who loves creating cool things. I firmly believe that growth happens during the most difficult challenges, which is why I enjoy facing complex problems to test my limits!
 
 
-**🔭 Current Focus**
+**Current Focus**
 
 I am currently researching **Variational Manifold Learning**, specifically looking at how we can use Variational Autoencoders (VAEs) to learn and smooth the probability distribution of Transformer embeddings.
 
 
 
 
- **🛠️ My Toolbox**
+ ** My Toolbox**
 
 Languages: 
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
