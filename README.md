@@ -10,7 +10,7 @@ I am currently researching **Variational Manifold Learning**, specifically looki
 
 
 
- ** My Toolbox**
+ **My Toolbox**
 
 Languages: 
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
