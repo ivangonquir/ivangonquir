@@ -6,7 +6,8 @@ I am currently researching Variational Representation Learning, specifically usi
 
 
 
-In my day-to-day basis, I amke use of the following:
+In my day-to-day basis, I make  use of the following:
+
 Languages: 
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-000000?style=flat&logo=latex&logoColor=white)
