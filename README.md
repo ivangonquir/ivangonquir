@@ -2,10 +2,6 @@
 
 I'm a Data Science Student interested in a wide variety of topics who loves creating cool things. I firmly believe that growth happens during the most difficult challenges, which is why I enjoy facing complex problems to test my limits!
 
-I am currently researching Variational Representation Learning, specifically using VAEs to model the probability distribution of Transformer embeddings for unsupervised anomaly detection. Through this work, I aim to offer a new perspective on the interpretability of VAE-learned manifolds by analyzing how sentiment, syntax, and grammar naturally cluster and affect mappings in the compressed latent space.
-
-
-
 In my day-to-day basis, I make  use of the following:
 
 Languages: 
