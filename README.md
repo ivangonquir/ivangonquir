@@ -1,4 +1,4 @@
-# Hi there, I'm Ivan! 
+# Hi there!
 
 I'm a Data Science Student interested in a wide variety of topics who loves creating cool things. I firmly believe that growth happens during the most difficult challenges, which is why I enjoy facing complex problems to test my limits!
 
