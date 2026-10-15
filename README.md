@@ -8,7 +8,6 @@ I'm an **AI Research Engineer** and **MSc in Data Science** candidate at **UPC (
 * **MSc in Data Science (UPC – FIB):** Focusing on Advanced Machine Learning, Natural Language Processing, Algorithmic Theory, and Big Data Management.
 
 #### 🛠️ On a day-to-day basis, I work with:
-*(Keep your existing icon rows here!)*
 * **Languages:**
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-000000?style=flat&logo=latex&logoColor=white)
