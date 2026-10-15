@@ -1,6 +1,6 @@
 ### Hi there, I'm Ivan 👋
 
-I'm an **AI Research Engineer** and **MSc in Data Science** candidate at **UPC (BarcelonaTech)**, previously a researcher at the **Barcelona Supercomputing Center (BSC)** and visiting student at **ETH Zurich (INI)**. I enjoy tackling complex, high-impact problems at the intersection of deep learning research and production AI systems.
+I'm an **AI Research Engineer** and **MSc in Data Science** candidate at **UPC (BarcelonaTech)**, previously a researcher at the **Barcelona Supercomputing Center (BSC)** and visiting student at **ETH Zurich (INI)**. 
 
 #### 🔬 Current Work & Focus
 * **Medical LLMs & RAG (Stanford University – Ioannidis Lab):** Architecting an open-source medical retrieval-augmented generation system over 2M+ clinical papers to assist doctors and hospitals.
